@@ -1,0 +1,7 @@
+name: Wolfi
+version: '${project.version}'
+main: dev.gomorrha.wolfi.main.Main
+api-version: 1.19
+prefix: [Wolfi]
+authors: [ Gomorrha ]
+description: The protect your wolve challenge
